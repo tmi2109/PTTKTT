@@ -1,0 +1,15 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\bin\Debug\net6.0\Merge_Sort.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\bin\Debug\net6.0\Merge_Sort.deps.json
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\bin\Debug\net6.0\Merge_Sort.runtimeconfig.json
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\bin\Debug\net6.0\Merge_Sort.dll
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\bin\Debug\net6.0\Merge_Sort.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.AssemblyInfoInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.AssemblyInfo.cs
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.dll
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\refint\Merge_Sort.dll
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\Merge_Sort.genruntimeconfig.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Merge_Sort\obj\Debug\net6.0\ref\Merge_Sort.dll

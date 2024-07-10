@@ -1,0 +1,15 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\bin\Debug\net6.0\Nhan2SoNguyenLon.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\bin\Debug\net6.0\Nhan2SoNguyenLon.deps.json
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\bin\Debug\net6.0\Nhan2SoNguyenLon.runtimeconfig.json
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\bin\Debug\net6.0\Nhan2SoNguyenLon.dll
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\bin\Debug\net6.0\Nhan2SoNguyenLon.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.csproj.AssemblyReference.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.AssemblyInfoInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.AssemblyInfo.cs
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.dll
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\refint\Nhan2SoNguyenLon.dll
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\Nhan2SoNguyenLon.genruntimeconfig.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan1\Nhan2SoNguyenLon\obj\Debug\net6.0\ref\Nhan2SoNguyenLon.dll
